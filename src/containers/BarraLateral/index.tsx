@@ -1,5 +1,5 @@
 const BarraLateral = () => {
-  <aside>Barra Lateral</aside>
+  ;<aside>Barra Lateral</aside>
 }
 
 export default BarraLateral

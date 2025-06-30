@@ -4,13 +4,13 @@ import EstiloGlobal, { Container } from './styles'
 
 function App() {
   return (
-    <>
+    <div>
       <EstiloGlobal />
       <Container>
         <BarraLateral />
         <ListaDeTarefas />
       </Container>
-    </>
+    </div>
   )
 }
 
